@@ -1,0 +1,6 @@
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\omarh\Documents\Visual Studio 2013\Projects\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csprojResolveAssemblyReference.cache
